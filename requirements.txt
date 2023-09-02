@@ -1,2 +1,4 @@
+beanie
 fastapi
+python-dotenv
 uvicorn
