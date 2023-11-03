@@ -1,6 +1,11 @@
 # Vercel + FastAPI + Serverless
 
-Does it work this this? Can we deploy a serverless REST api?
+Does it work this this? Can we deploy a serverless REST API?
+
+> ✅ yes, it does
+>
+> deployed here: https://vercel-fastapi-lemon.vercel.app/
+
 
 ## Inspiration
 
